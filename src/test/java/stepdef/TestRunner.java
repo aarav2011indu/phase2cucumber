@@ -13,7 +13,7 @@ package stepdef;
 			monochrome= true,
 			plugin = {"pretty","html:target/html-cucumber","json:target/cucumber.json"},
 			features = "src/test/java/features", 
-			glue = "stepdefs",
+			glue = "stepdef",
 			//tags = {"@sanity"} to run single tag
 			//tags = {"@sanity or @regression"}
 			// to run multiple tags
