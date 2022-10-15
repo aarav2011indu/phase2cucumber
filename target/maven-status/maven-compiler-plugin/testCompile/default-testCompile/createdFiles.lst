@@ -1,0 +1,4 @@
+stepdef\HomePage.class
+stepdef\Hooks.class
+stepdef\LoginPage.class
+stepdef\TestRunner.class
